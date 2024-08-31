@@ -5,3 +5,7 @@
 Add text through the browser
 
 ## Let's add the text locally.
+
+```
+Добавили текст в новой ветке new_branch
+```
